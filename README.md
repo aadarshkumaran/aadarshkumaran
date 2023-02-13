@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js
 - 💞️ I’m currently looking for jobs and to collaborate on more projects
-- 📫 Reach me at aadarshkumaranak@gmail.com
+- 📫 Reach me at aadarshkumaranak@gmail.com (or) https://www.linkedin.com/in/aadarshkumaran/
 
 <!---
 aadarshkumaran/aadarshkumaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
